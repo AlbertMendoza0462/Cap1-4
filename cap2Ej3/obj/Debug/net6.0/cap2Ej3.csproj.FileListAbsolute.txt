@@ -1,0 +1,15 @@
+C:\Users\alber\Documents\Estudios\Ocupaciones\Cap1-4\cap2Ej3\obj\Debug\net6.0\cap2Ej3.csproj.AssemblyReference.cache
+C:\Users\alber\Documents\Estudios\Ocupaciones\Cap1-4\cap2Ej3\obj\Debug\net6.0\cap2Ej3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\Documents\Estudios\Ocupaciones\Cap1-4\cap2Ej3\obj\Debug\net6.0\cap2Ej3.AssemblyInfoInputs.cache
+C:\Users\alber\Documents\Estudios\Ocupaciones\Cap1-4\cap2Ej3\obj\Debug\net6.0\cap2Ej3.AssemblyInfo.cs
+C:\Users\alber\Documents\Estudios\Ocupaciones\Cap1-4\cap2Ej3\obj\Debug\net6.0\cap2Ej3.csproj.CoreCompileInputs.cache
+C:\Users\alber\Documents\Estudios\Ocupaciones\Cap1-4\cap2Ej3\bin\Debug\net6.0\cap2Ej3.exe
+C:\Users\alber\Documents\Estudios\Ocupaciones\Cap1-4\cap2Ej3\bin\Debug\net6.0\cap2Ej3.deps.json
+C:\Users\alber\Documents\Estudios\Ocupaciones\Cap1-4\cap2Ej3\bin\Debug\net6.0\cap2Ej3.runtimeconfig.json
+C:\Users\alber\Documents\Estudios\Ocupaciones\Cap1-4\cap2Ej3\bin\Debug\net6.0\cap2Ej3.dll
+C:\Users\alber\Documents\Estudios\Ocupaciones\Cap1-4\cap2Ej3\bin\Debug\net6.0\cap2Ej3.pdb
+C:\Users\alber\Documents\Estudios\Ocupaciones\Cap1-4\cap2Ej3\obj\Debug\net6.0\cap2Ej3.dll
+C:\Users\alber\Documents\Estudios\Ocupaciones\Cap1-4\cap2Ej3\obj\Debug\net6.0\refint\cap2Ej3.dll
+C:\Users\alber\Documents\Estudios\Ocupaciones\Cap1-4\cap2Ej3\obj\Debug\net6.0\cap2Ej3.pdb
+C:\Users\alber\Documents\Estudios\Ocupaciones\Cap1-4\cap2Ej3\obj\Debug\net6.0\cap2Ej3.genruntimeconfig.cache
+C:\Users\alber\Documents\Estudios\Ocupaciones\Cap1-4\cap2Ej3\obj\Debug\net6.0\ref\cap2Ej3.dll
